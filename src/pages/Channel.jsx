@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Channel = () => {
   return (
@@ -8,4 +8,4 @@ const Channel = () => {
   )
 }
 
-export default Channel;
+export default Channel

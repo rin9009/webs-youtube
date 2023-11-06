@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Port = () => {
   return (
@@ -8,4 +8,4 @@ const Port = () => {
   )
 }
 
-export default Port;
+export default Port

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Gsap = () => {
   return (
@@ -8,4 +8,4 @@ const Gsap = () => {
   )
 }
 
-export default Gsap;
+export default Gsap

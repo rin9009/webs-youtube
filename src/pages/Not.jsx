@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Not = () => {
   return (
@@ -8,4 +8,4 @@ const Not = () => {
   )
 }
 
-export default Not;
+export default Not

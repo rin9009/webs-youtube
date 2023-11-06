@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Youtube = () => {
   return (
@@ -8,4 +8,4 @@ const Youtube = () => {
   )
 }
 
-export default Youtube;
+export default Youtube

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Website = () => {
   return (
@@ -8,4 +8,4 @@ const Website = () => {
   )
 }
 
-export default Website;
+export default Website
